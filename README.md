@@ -1,5 +1,5 @@
 # Telegram Bot
-Pre-requisites :
+Pre-requisites when using in vscode :
 - Install pip install telebot
 - Install pip install python-telegram-bot
 - If you are using a virtual environment, make sure it is activated
